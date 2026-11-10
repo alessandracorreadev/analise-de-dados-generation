@@ -1,0 +1,321 @@
+id_pedido;data;hora;bairro;categoria;valor;tempo_entrega_min;avaliacao;status
+PED-1004;06/06/2026;18:36;Vila Nova;Lanches;119,53;24;1;Entregue
+PED-1123;15/06/2026;20:13;Centro;Pizza;82,12;47;4;Entregue
+PED-1217;14/06/2026;18:37;Jardim América;Pizza;26,19;26;4;Cancelado
+PED-1165;17/06/2026;14:23;Centro;Lanches;48,73;74;3;Entregue
+PED-1277;06/06/2026;18:04;Vila Nova;Lanches;29,43;16;2;Entregue
+PED-1220;30/06/2026;13:26;Santa Cruz;Sobremesas;88,18;26;4;Entregue
+PED-1275;20/06/2026;19:43;Centro;Sobremesas;128,07;24;4;Cancelado
+PED-1309;06/06/2026;13:50;Vila Nova;Lanches;91,27;37;;Entregue
+PED-1062;06/06/2026;22:54;Jardim América;Lanches;69,33;19;4;Entregue
+PED-1034;23/06/2026;12:57;Jardim América;Pizza;73,95;53;2;Entregue
+PED-1094;27/06/2026;21:05;Bela Vista;Lanches;37,06;22;4;Entregue
+PED-1108;11/06/2026;12:46;Bela Vista;Pizza;116,63;21;2;Cancelado
+PED-1039;14/06/2026;19:18;Centro;Lanches;66,24;32;1;Entregue
+PED-1079;19/06/2026;21:03;Vila Nova;Sobremesas;46,15;47;4;Entregue
+PED-1110;26/06/2026;11:25;Jardim América;Brasileira;103,23;44;5;Cancelado
+PED-1102;17/06/2026;20:20;Jardim América;Sobremesas;81,34;42;1;Entregue
+PED-1204;05/06/2026;11:40;Centro;Pizza;78,66;69;1;Entregue
+PED-1132;25/06/2026;12:42;Santa Cruz;Lanches;24,89;39;4;Entregue
+PED-1084;10/06/2026;14:00;Jardim América;Pizza;29,95;59;2;Entregue
+PED-1026;25/06/2026;22:31;Santa Cruz;Pizza;43,73;42;;Entregue
+PED-1271;14/06/2026;21:01;Centro;Lanches;94,3;70;1;Entregue
+PED-1070;04/06/2026;21:34;Centro;Brasileira;89,53;52;4;Entregue
+PED-1003;17/06/2026;18:53;Bela Vista;Pizza;129,56;61;2;Entregue
+PED-1176;13/06/2026;12:38;Vila Nova;Lanches;56,2;65;2;Entregue
+PED-1069;22/06/2026;12:12;Bela Vista;Pizza;35,25;28;3;Cancelado
+PED-1078;30/06/2026;18:09;Santa Cruz;Sobremesas;134,27;49;3;Entregue
+PED-1046;09/06/2026;13:26;Vila Nova;Sobremesas;44,72;61;4;Entregue
+PED-1314;27/06/2026;12:57;Vila Nova;Lanches;105,15;30;4;Entregue
+PED-1276;10/06/2026;13:14;Bela Vista;Pizza;50,12;33;1;Entregue
+PED-1134;19/06/2026;18:00;Vila Nova;Lanches;69,95;46;2;Cancelado
+PED-1128;04/06/2026;22:00;Bela Vista;Pizza;65,98;37;3;Cancelado
+PED-1316;02/06/2026;11:50;Bela Vista;Brasileira;103,52;28;4;Entregue
+PED-1252;13/06/2026;20:28;Centro;Pizza;67,47;22;5;Entregue
+PED-1234;21/06/2026;18:19;Jardim América;Japonesa;36,29;47;2;Entregue
+PED-1011;05/06/2026;22:46;Jardim América;Lanches;137,41;55;1;Entregue
+PED-1104;19/06/2026;19:47;Centro;Lanches;120,35;69;;Entregue
+PED-1208;01/06/2026;11:19;Centro;Lanches;41,9;22;1;Entregue
+PED-1250;24/06/2026;11:39;Jardim América;Sobremesas;37,08;16;4;Entregue
+PED-1255;09/06/2026;20:24;Centro;Brasileira;111,32;57;4;Entregue
+PED-1017;17/06/2026;20:09;Santa Cruz;Lanches;33;39;2;Entregue
+PED-1080;23/06/2026;12:30;Bela Vista;Japonesa;115,74;66;2;Entregue
+PED-1028;27/06/2026;12:00;Santa Cruz;Sobremesas;110,91;20;;Entregue
+PED-1304;08/06/2026;19:55;Bela Vista;Brasileira;70,2;66;4;Cancelado
+PED-1025;18/06/2026;22:27;Jardim América;Brasileira;78,02;65;5;Entregue
+PED-1295;06/06/2026;13:10;Bela Vista;Brasileira;32,69;74;2;Entregue
+PED-1200;28/06/2026;14:54;Vila Nova;Lanches;119,41;59;3;Entregue
+PED-1235;20/06/2026;12:41;Santa Cruz;Pizza;36,3;30;4;Entregue
+PED-1075;15/06/2026;12:08;Centro;Brasileira;95,4;51;2;Entregue
+PED-1221;06/06/2026;18:41;Bela Vista;Sobremesas;78,31;43;4;Entregue
+PED-1189;21/06/2026;20:41;Bela Vista;Lanches;39,68;67;1;Entregue
+PED-1228;13/06/2026;21:09;Bela Vista;Pizza;108,45;40;4;Entregue
+PED-1054;13/06/2026;22:57;Santa Cruz;Brasileira;32,26;45;;Entregue
+PED-1143;19/06/2026;18:15;Santa Cruz;Sobremesas;126,52;73;4;Entregue
+PED-1242;04/06/2026;14:01;Bela Vista;Lanches;30,4;42;1;Entregue
+PED-1268;11/06/2026;19:01;Centro;Pizza;33,53;75;3;Entregue
+PED-1148;11/06/2026;11:07;Santa Cruz;Brasileira;75,37;41;4;Entregue
+PED-1245;13/06/2026;21:59;Vila Nova;Japonesa;101,09;75;2;Entregue
+PED-1111;15/06/2026;14:45;Santa Cruz;Japonesa;76,81;44;2;Entregue
+PED-1298;15/06/2026;22:09;Santa Cruz;Pizza;115,4;17;2;Entregue
+PED-1087;20/06/2026;22:23;Jardim América;Lanches;55,42;21;2;Entregue
+PED-1236;07/06/2026;19:43;Centro;Lanches;26,94;73;5;Entregue
+PED-1311;28/06/2026;20:52;Centro;Brasileira;122,4;39;;Entregue
+PED-1315;24/06/2026;13:31;Jardim América;Japonesa;49,91;33;5;Entregue
+PED-1224;03/06/2026;12:26;Vila Nova;Brasileira;112,73;73;4;Entregue
+PED-1098;13/06/2026;11:07;Bela Vista;Lanches;101,31;40;5;Entregue
+PED-1092;17/06/2026;19:43;Jardim América;Japonesa;27,7;52;3;Entregue
+PED-1064;21/06/2026;14:08;Jardim América;Brasileira;137,12;69;3;Entregue
+PED-1183;26/06/2026;21:20;Santa Cruz;Japonesa;43,14;19;4;Entregue
+PED-1285;20/06/2026;20:00;Centro;Japonesa;85,53;54;3;Entregue
+PED-1019;26/06/2026;18:51;Santa Cruz;Pizza;33,57;62;4;Entregue
+PED-1144;22/06/2026;12:42;Bela Vista;Japonesa;108,84;64;4;Entregue
+PED-1068;15/06/2026;13:55;Centro;Brasileira;51,25;56;4;Entregue
+PED-1247;02/06/2026;21:20;Bela Vista;Japonesa;125,04;31;3;Entregue
+PED-1318;14/06/2026;12:03;Bela Vista;Japonesa;121,06;69;2;Entregue
+PED-1167;14/06/2026;20:15;Jardim América;Brasileira;100,03;57;;Entregue
+PED-1100;05/06/2026;21:00;Centro;Brasileira;133,06;32;2;Entregue
+PED-1308;26/06/2026;13:45;Centro;Japonesa;118,8;58;;Entregue
+PED-1093;01/06/2026;14:49;Vila Nova;Lanches;67,09;34;1;Entregue
+PED-1159;05/06/2026;21:51;Jardim América;Sobremesas;89,64;72;4;Entregue
+PED-1141;05/06/2026;11:12;Jardim América;Brasileira;30,93;54;;Entregue
+PED-1072;18/06/2026;18:41;Jardim América;Sobremesas;119,9;19;2;Entregue
+PED-1057;28/06/2026;13:57;Vila Nova;Pizza;135,82;31;5;Entregue
+PED-1059;30/06/2026;21:47;Santa Cruz;Pizza;128,06;16;2;Entregue
+PED-1126;13/06/2026;20:03;Jardim América;Pizza;27,51;49;3;Entregue
+PED-1106;06/06/2026;14:39;Vila Nova;Brasileira;95,56;72;2;Entregue
+PED-1201;04/06/2026;13:00;Santa Cruz;Lanches;81,05;65;1;Entregue
+PED-1290;03/06/2026;22:11;Bela Vista;Pizza;47,1;26;;Entregue
+PED-1115;21/06/2026;14:31;Vila Nova;Sobremesas;106,36;59;4;Entregue
+PED-1170;12/06/2026;11:39;Bela Vista;Brasileira;43,63;72;3;Entregue
+PED-1260;27/06/2026;13:23;Centro;Japonesa;56,53;57;2;Entregue
+PED-1035;20/06/2026;21:19;Jardim América;Lanches;30,83;16;2;Entregue
+PED-1229;12/06/2026;14:14;Bela Vista;Japonesa;126,21;66;1;Entregue
+PED-1124;14/06/2026;11:27;Jardim América;Japonesa;108,3;48;;Entregue
+PED-1090;20/06/2026;18:46;Santa Cruz;Lanches;100,59;44;3;Entregue
+PED-1002;21/06/2026;14:05;Centro;Japonesa;50,64;68;2;Entregue
+PED-1150;17/06/2026;21:53;Vila Nova;Pizza;87,18;61;2;Cancelado
+PED-1022;30/06/2026;19:18;Bela Vista;Pizza;50,64;37;1;Cancelado
+PED-1258;19/06/2026;14:42;Jardim América;Pizza;52,63;20;2;Entregue
+PED-1136;26/06/2026;22:59;Jardim América;Pizza;34,33;38;4;Cancelado
+PED-1161;22/06/2026;13:28;Vila Nova;Pizza;45,12;19;4;Entregue
+PED-1049;03/06/2026;11:22;Centro;Japonesa;127,07;19;;Entregue
+PED-1012;25/06/2026;13:19;Bela Vista;Pizza;69,12;48;3;Entregue
+PED-1253;06/06/2026;11:05;Centro;Lanches;130,36;64;2;Entregue
+PED-1158;23/06/2026;19:03;Centro;Lanches;119,45;58;2;Entregue
+PED-1020;20/06/2026;13:56;Jardim América;Brasileira;32,72;43;;Entregue
+PED-1037;17/06/2026;19:21;Bela Vista;Pizza;82,7;24;2;Cancelado
+PED-1024;18/06/2026;13:41;Jardim América;Brasileira;34,14;63;4;Entregue
+PED-1239;16/06/2026;22:29;Bela Vista;Brasileira;73,37;42;3;Entregue
+PED-1284;21/06/2026;11:01;Jardim América;Pizza;62,77;50;4;Entregue
+PED-1302;25/06/2026;12:30;Santa Cruz;Lanches;86,51;51;3;Entregue
+PED-1265;29/06/2026;14:11;Jardim América;Brasileira;108,95;62;1;Entregue
+PED-1195;07/06/2026;13:52;Santa Cruz;Pizza;130,49;20;2;Entregue
+PED-1181;22/06/2026;21:54;Vila Nova;Lanches;41,27;17;2;Entregue
+PED-1225;07/06/2026;21:22;Jardim América;Pizza;120,73;20;4;Entregue
+PED-1113;24/06/2026;11:36;Centro;Pizza;99,53;67;3;Entregue
+PED-1125;08/06/2026;12:30;Jardim América;Sobremesas;83,91;62;;Entregue
+PED-1274;18/06/2026;14:37;Centro;Japonesa;39,02;45;2;Entregue
+PED-1119;02/06/2026;19:20;Vila Nova;Brasileira;48,12;51;2;Cancelado
+PED-1173;27/06/2026;14:01;Centro;Lanches;119,67;70;2;Entregue
+PED-1048;07/06/2026;11:33;Centro;Pizza;130,37;64;3;Entregue
+PED-1015;18/06/2026;14:36;Centro;Lanches;69,54;22;5;Cancelado
+PED-1187;28/06/2026;19:27;Santa Cruz;Lanches;44,85;31;4;Entregue
+PED-1097;11/06/2026;11:22;Centro;Brasileira;62,16;37;1;Entregue
+PED-1166;19/06/2026;11:01;Bela Vista;Sobremesas;84,52;56;4;Entregue
+PED-1299;10/06/2026;19:08;Vila Nova;Brasileira;32,09;18;2;Entregue
+PED-1210;06/06/2026;22:05;Jardim América;Sobremesas;111,69;50;4;Cancelado
+PED-1209;26/06/2026;22:16;Santa Cruz;Pizza;112,1;25;;Entregue
+PED-1146;23/06/2026;12:39;Jardim América;Pizza;85,56;53;3;Entregue
+PED-1280;23/06/2026;13:21;Bela Vista;Lanches;98,75;28;2;Entregue
+PED-1226;04/06/2026;19:39;Jardim América;Pizza;105,24;33;5;Entregue
+PED-1001;05/06/2026;13:40;Centro;Lanches;88,09;27;2;Cancelado
+PED-1050;23/06/2026;11:52;Vila Nova;Lanches;25,11;64;3;Cancelado
+PED-1153;18/06/2026;13:55;Bela Vista;Lanches;92,05;33;2;Cancelado
+PED-1169;11/06/2026;20:14;Centro;Pizza;35,45;40;3;Entregue
+PED-1006;10/06/2026;22:12;Jardim América;Japonesa;139,91;41;3;Entregue
+PED-1198;12/06/2026;21:44;Centro;Japonesa;55,79;54;2;Entregue
+PED-1197;22/06/2026;12:01;Centro;Japonesa;89,84;60;2;Entregue
+PED-1313;04/06/2026;21:09;Santa Cruz;Sobremesas;67,05;45;1;Entregue
+PED-1179;24/06/2026;21:39;Bela Vista;Lanches;116,11;70;1;Entregue
+PED-1129;02/06/2026;19:01;Centro;Sobremesas;104,43;41;4;Entregue
+PED-1219;19/06/2026;11:01;Santa Cruz;Japonesa;89,24;58;4;Entregue
+PED-1174;17/06/2026;12:44;Jardim América;Lanches;24,47;16;;Entregue
+PED-1031;24/06/2026;20:19;Centro;Japonesa;69,24;43;1;Entregue
+PED-1061;17/06/2026;14:49;Jardim América;Lanches;33,62;57;4;Entregue
+PED-1269;14/06/2026;12:15;Vila Nova;Pizza;44,58;39;2;Cancelado
+PED-1248;26/06/2026;19:18;Vila Nova;Pizza;125,29;61;2;Entregue
+PED-1312;14/06/2026;13:26;Vila Nova;Lanches;71,53;75;2;Entregue
+PED-1251;01/06/2026;21:16;Vila Nova;Pizza;27,18;20;2;Entregue
+PED-1306;19/06/2026;13:37;Bela Vista;Brasileira;88,02;49;2;Entregue
+PED-1230;04/06/2026;14:34;Centro;Brasileira;112,53;59;;Entregue
+PED-1237;20/06/2026;18:43;Centro;Brasileira;37,02;33;5;Entregue
+PED-1135;16/06/2026;21:08;Santa Cruz;Japonesa;122,82;16;1;Entregue
+PED-1021;26/06/2026;18:14;Jardim América;Pizza;91,56;42;2;Entregue
+PED-1190;10/06/2026;11:20;Vila Nova;Sobremesas;111,06;44;2;Entregue
+PED-1243;16/06/2026;13:19;Vila Nova;Lanches;69,06;39;2;Entregue
+PED-1036;18/06/2026;20:10;Centro;Japonesa;87,09;43;2;Entregue
+PED-1117;12/06/2026;21:56;Santa Cruz;Sobremesas;113,22;23;4;Entregue
+PED-1270;13/06/2026;13:34;Vila Nova;Lanches;126,66;65;5;Entregue
+PED-1296;07/06/2026;20:49;Jardim América;Pizza;83,73;46;1;Entregue
+PED-1297;28/06/2026;14:21;Centro;Pizza;26,36;74;4;Entregue
+PED-1191;29/06/2026;19:58;Vila Nova;Japonesa;43,95;40;5;Entregue
+PED-1045;27/06/2026;22:52;Jardim América;Sobremesas;116,56;66;1;Entregue
+PED-1287;21/06/2026;19:50;Bela Vista;Pizza;37,11;16;4;Entregue
+PED-1218;28/06/2026;22:51;Centro;Brasileira;42,27;45;3;Entregue
+PED-1194;27/06/2026;12:20;Jardim América;Sobremesas;49,91;62;2;Entregue
+PED-1263;23/06/2026;12:26;Santa Cruz;Brasileira;79,46;37;3;Entregue
+PED-1199;21/06/2026;12:44;Vila Nova;Brasileira;80,94;29;4;Entregue
+PED-1214;18/06/2026;21:37;Centro;Lanches;46,53;38;2;Entregue
+PED-1073;21/06/2026;12:35;Jardim América;Brasileira;66,93;26;1;Entregue
+PED-1130;18/06/2026;13:39;Centro;Brasileira;34,95;43;5;Entregue
+PED-1232;10/06/2026;12:19;Centro;Pizza;84,62;43;1;Entregue
+PED-1156;19/06/2026;19:40;Centro;Sobremesas;118,65;66;4;Entregue
+PED-1095;26/06/2026;12:54;Jardim América;Lanches;86,64;37;2;Entregue
+PED-1203;03/06/2026;20:05;Bela Vista;Lanches;92,67;26;2;Entregue
+PED-1205;13/06/2026;14:24;Bela Vista;Pizza;119,47;49;5;Entregue
+PED-1067;21/06/2026;19:33;Centro;Sobremesas;52,71;35;4;Entregue
+PED-1291;07/06/2026;19:40;Centro;Pizza;94,31;49;5;Entregue
+PED-1319;10/06/2026;18:12;Vila Nova;Brasileira;127,11;37;;Entregue
+PED-1188;28/06/2026;13:08;Centro;Lanches;113,53;66;2;Entregue
+PED-1056;06/06/2026;13:01;Centro;Lanches;91,64;59;4;Entregue
+PED-1233;19/06/2026;13:59;Jardim América;Brasileira;77,68;21;3;Entregue
+PED-1215;30/06/2026;13:58;Centro;Japonesa;52,81;24;2;Entregue
+PED-1206;29/06/2026;19:08;Bela Vista;Japonesa;118,76;59;3;Entregue
+PED-1060;20/06/2026;13:31;Jardim América;Japonesa;109,56;34;1;Entregue
+PED-1223;26/06/2026;12:20;Vila Nova;Sobremesas;47,42;64;2;Entregue
+PED-1005;06/06/2026;14:10;Vila Nova;Japonesa;138,24;61;2;Cancelado
+PED-1151;07/06/2026;11:34;Jardim América;Lanches;112,9;16;2;Entregue
+PED-1207;05/06/2026;19:08;Jardim América;Lanches;106,22;50;4;Entregue
+PED-1317;07/06/2026;20:52;Santa Cruz;Japonesa;65,82;72;4;Entregue
+PED-1172;26/06/2026;18:47;Centro;Japonesa;110,42;68;4;Cancelado
+PED-1007;07/06/2026;14:38;Centro;Brasileira;101,79;19;3;Entregue
+PED-1099;24/06/2026;22:01;Centro;Pizza;103,57;52;2;Entregue
+PED-1281;03/06/2026;14:12;Jardim América;Japonesa;85,12;67;1;Entregue
+PED-1131;03/06/2026;22:54;Centro;Pizza;69,52;31;2;Entregue
+PED-1278;21/06/2026;21:55;Centro;Sobremesas;29,06;33;5;Entregue
+PED-1008;13/06/2026;22:47;Bela Vista;Brasileira;111,99;21;4;Entregue
+PED-1074;27/06/2026;18:09;Bela Vista;Brasileira;114,66;41;2;Entregue
+PED-1212;12/06/2026;21:38;Vila Nova;Sobremesas;24,39;51;3;Entregue
+PED-1127;24/06/2026;11:28;Santa Cruz;Brasileira;75,96;31;4;Entregue
+PED-1294;20/06/2026;12:55;Vila Nova;Lanches;127,22;46;1;Entregue
+PED-1029;20/06/2026;11:17;Santa Cruz;Pizza;57,77;35;2;Entregue
+PED-1086;27/06/2026;19:23;Santa Cruz;Pizza;71,25;36;4;Entregue
+PED-1185;27/06/2026;20:08;Santa Cruz;Brasileira;128,93;20;3;Entregue
+PED-1307;05/06/2026;14:01;Centro;Brasileira;107,29;25;2;Entregue
+PED-1105;06/06/2026;11:30;Jardim América;Pizza;111,99;38;3;Entregue
+PED-1055;11/06/2026;13:10;Centro;Brasileira;96,62;33;4;Entregue
+PED-1240;20/06/2026;19:55;Vila Nova;Lanches;123,4;25;2;Entregue
+PED-1103;14/06/2026;14:19;Vila Nova;Japonesa;113,53;54;3;Cancelado
+PED-1145;13/06/2026;20:21;Vila Nova;Japonesa;64,37;72;;Entregue
+PED-1286;09/06/2026;11:03;Santa Cruz;Lanches;42,52;49;1;Entregue
+PED-1211;24/06/2026;11:46;Vila Nova;Pizza;27,36;16;1;Entregue
+PED-1264;06/06/2026;18:49;Jardim América;Brasileira;86,01;58;3;Entregue
+PED-1292;27/06/2026;21:00;Bela Vista;Lanches;125,32;73;2;Entregue
+PED-1076;05/06/2026;12:45;Vila Nova;Japonesa;84,19;68;2;Entregue
+PED-1016;20/06/2026;14:57;Santa Cruz;Sobremesas;90,42;62;4;Entregue
+PED-1047;07/06/2026;14:28;Vila Nova;Japonesa;105,27;42;2;Entregue
+PED-1138;14/06/2026;12:47;Bela Vista;Pizza;115,04;52;;Cancelado
+PED-1272;26/06/2026;14:50;Vila Nova;Sobremesas;53,2;62;3;Entregue
+PED-1249;24/06/2026;14:19;Santa Cruz;Brasileira;54,92;52;2;Entregue
+PED-1027;12/06/2026;11:15;Jardim América;Lanches;80,85;59;2;Entregue
+PED-1163;10/06/2026;19:15;Bela Vista;Lanches;136,23;49;2;Entregue
+PED-1051;14/06/2026;11:13;Bela Vista;Pizza;45,19;65;;Entregue
+PED-1182;25/06/2026;22:50;Centro;Brasileira;130,65;43;3;Entregue
+PED-1261;10/06/2026;13:47;Centro;Japonesa;71,5;19;4;Entregue
+PED-1257;06/06/2026;19:00;Santa Cruz;Japonesa;134,29;74;4;Entregue
+PED-1085;24/06/2026;14:11;Centro;Lanches;117,41;65;2;Entregue
+PED-1171;07/06/2026;18:50;Centro;Pizza;81,87;72;4;Entregue
+PED-1089;06/06/2026;11:42;Bela Vista;Pizza;132,11;16;1;Entregue
+PED-1116;13/06/2026;22:42;Santa Cruz;Lanches;85,05;21;3;Entregue
+PED-1222;25/06/2026;14:17;Vila Nova;Japonesa;129,8;31;3;Entregue
+PED-1101;07/06/2026;13:42;Centro;Pizza;63,07;29;;Cancelado
+PED-1238;27/06/2026;14:15;Jardim América;Brasileira;42,56;29;;Entregue
+PED-1040;25/06/2026;22:22;Centro;Brasileira;59,11;39;3;Cancelado
+PED-1266;01/06/2026;11:51;Centro;Pizza;69,12;63;4;Entregue
+PED-1162;29/06/2026;14:49;Centro;Brasileira;134,97;70;4;Entregue
+PED-1283;24/06/2026;22:18;Vila Nova;Lanches;43,38;55;3;Entregue
+PED-1293;17/06/2026;19:49;Jardim América;Brasileira;25,82;43;2;Entregue
+PED-1042;18/06/2026;11:59;Vila Nova;Lanches;42,59;52;2;Entregue
+PED-1155;11/06/2026;13:04;Bela Vista;Japonesa;98,59;27;3;Entregue
+PED-1071;27/06/2026;19:20;Centro;Lanches;88,72;40;5;Entregue
+PED-1133;26/06/2026;13:06;Centro;Sobremesas;78,29;51;4;Entregue
+PED-1122;28/06/2026;13:01;Jardim América;Pizza;108,34;74;4;Entregue
+PED-1096;13/06/2026;14:13;Centro;Japonesa;39,04;40;2;Entregue
+PED-1140;30/06/2026;11:59;Bela Vista;Lanches;115;68;2;Entregue
+PED-1164;06/06/2026;11:37;Santa Cruz;Lanches;76,83;25;2;Entregue
+PED-1009;16/06/2026;11:58;Jardim América;Brasileira;123,61;68;2;Entregue
+PED-1107;27/06/2026;22:50;Santa Cruz;Sobremesas;55,27;62;5;Entregue
+PED-1088;27/06/2026;12:55;Centro;Pizza;42,77;51;4;Entregue
+PED-1041;26/06/2026;13:31;Jardim América;Japonesa;24,81;68;4;Entregue
+PED-1303;26/06/2026;11:07;Bela Vista;Brasileira;82,34;43;5;Entregue
+PED-1254;27/06/2026;13:25;Vila Nova;Sobremesas;80,28;65;1;Entregue
+PED-1033;20/06/2026;21:12;Vila Nova;Pizza;97,17;72;3;Entregue
+PED-1112;21/06/2026;22:03;Bela Vista;Pizza;58,63;55;;Entregue
+PED-1186;18/06/2026;14:21;Santa Cruz;Brasileira;107,48;55;;Entregue
+PED-1120;26/06/2026;22:13;Centro;Brasileira;114,21;23;4;Entregue
+PED-1058;13/06/2026;18:12;Bela Vista;Lanches;49,8;37;5;Entregue
+PED-1300;25/06/2026;22:03;Santa Cruz;Japonesa;135,7;31;1;Cancelado
+PED-1142;21/06/2026;14:31;Centro;Lanches;33,53;73;4;Entregue
+PED-1241;20/06/2026;14:34;Bela Vista;Pizza;104,76;59;4;Entregue
+PED-1310;21/06/2026;13:31;Santa Cruz;Brasileira;35,58;59;;Entregue
+PED-1301;07/06/2026;12:59;Vila Nova;Brasileira;41,45;33;;Entregue
+PED-1227;21/06/2026;20:12;Centro;Lanches;106,59;69;1;Entregue
+PED-1118;10/06/2026;22:44;Vila Nova;Lanches;107,04;25;4;Entregue
+PED-1160;20/06/2026;19:23;Centro;Japonesa;32,17;60;;Entregue
+PED-1053;12/06/2026;18:42;Santa Cruz;Lanches;125,68;21;4;Entregue
+PED-1077;06/06/2026;22:36;Santa Cruz;Pizza;60,43;47;4;Entregue
+PED-1044;15/06/2026;11:48;Vila Nova;Lanches;33,37;44;5;Entregue
+PED-1038;30/06/2026;19:11;Vila Nova;Sobremesas;93;61;4;Entregue
+PED-1157;09/06/2026;21:09;Jardim América;Pizza;63,25;65;2;Cancelado
+PED-1052;08/06/2026;11:10;Vila Nova;Pizza;67,01;31;5;Entregue
+PED-1279;05/06/2026;11:16;Centro;Pizza;26,5;52;3;Entregue
+PED-1137;19/06/2026;13:32;Bela Vista;Japonesa;72,34;26;2;Entregue
+PED-1154;24/06/2026;14:06;Santa Cruz;Japonesa;91,79;62;5;Entregue
+PED-1091;27/06/2026;12:51;Jardim América;Lanches;101,58;43;3;Cancelado
+PED-1289;15/06/2026;22:11;Bela Vista;Brasileira;80,45;62;1;Cancelado
+PED-1175;05/06/2026;12:59;Vila Nova;Lanches;106,66;62;5;Entregue
+PED-1305;26/06/2026;13:54;Centro;Brasileira;34,94;52;3;Entregue
+PED-1139;02/06/2026;18:53;Santa Cruz;Sobremesas;121,77;23;1;Entregue
+PED-1023;25/06/2026;12:25;Centro;Lanches;94,28;27;5;Cancelado
+PED-1030;09/06/2026;21:20;Centro;Lanches;42,19;28;2;Entregue
+PED-1202;13/06/2026;11:02;Centro;Sobremesas;68,29;28;4;Entregue
+PED-1168;25/06/2026;14:18;Centro;Brasileira;93,62;17;2;Cancelado
+PED-1178;04/06/2026;12:57;Jardim América;Brasileira;28,26;36;1;Entregue
+PED-1066;23/06/2026;19:44;Jardim América;Brasileira;59,81;45;4;Entregue
+PED-1184;27/06/2026;11:44;Centro;Pizza;80,88;19;3;Entregue
+PED-1010;21/06/2026;19:42;Jardim América;Brasileira;126,28;37;2;Entregue
+PED-1267;27/06/2026;22:19;Vila Nova;Pizza;31,83;46;2;Entregue
+PED-1256;11/06/2026;19:16;Jardim América;Lanches;69,25;46;5;Entregue
+PED-1063;12/06/2026;18:54;Vila Nova;Pizza;110,29;48;5;Entregue
+PED-1259;20/06/2026;19:19;Jardim América;Pizza;114,41;58;4;Entregue
+PED-1246;07/06/2026;22:00;Centro;Lanches;50,29;63;5;Entregue
+PED-1192;14/06/2026;22:41;Jardim América;Lanches;75,6;17;3;Cancelado
+PED-1018;23/06/2026;19:04;Bela Vista;Japonesa;79,82;46;4;Entregue
+PED-1043;10/06/2026;22:13;Jardim América;Lanches;67,54;44;2;Entregue
+PED-1177;28/06/2026;21:35;Centro;Lanches;29,55;27;1;Entregue
+PED-1032;28/06/2026;13:56;Vila Nova;Japonesa;61,54;71;3;Entregue
+PED-1180;26/06/2026;20:42;Vila Nova;Pizza;113,54;16;4;Entregue
+PED-1152;24/06/2026;19:05;Vila Nova;Japonesa;88,39;27;3;Entregue
+PED-1147;28/06/2026;13:40;Bela Vista;Japonesa;108,53;66;2;Entregue
+PED-1262;15/06/2026;13:30;Jardim América;Japonesa;102,67;22;3;Cancelado
+PED-1065;07/06/2026;14:10;Jardim América;Japonesa;78,77;28;2;Entregue
+PED-1213;28/06/2026;11:04;Centro;Japonesa;30,05;22;;Entregue
+PED-1149;06/06/2026;11:17;Centro;Pizza;129,63;75;3;Entregue
+PED-1231;26/06/2026;13:26;Santa Cruz;Pizza;53,68;37;5;Entregue
+PED-1109;07/06/2026;13:36;Jardim América;Pizza;37,77;32;2;Entregue
+PED-1014;09/06/2026;21:47;Santa Cruz;Japonesa;45,58;36;2;Entregue
+PED-1216;14/06/2026;13:42;Centro;Brasileira;114,08;64;2;Entregue
+PED-1320;07/06/2026;21:37;Vila Nova;Lanches;24,56;57;1;Entregue
+PED-1013;14/06/2026;14:00;Bela Vista;Japonesa;95,14;61;4;Cancelado
+PED-1121;18/06/2026;18:59;Bela Vista;Lanches;111,7;48;5;Cancelado
+PED-1114;10/06/2026;20:51;Centro;Pizza;138,5;61;3;Entregue
+PED-1288;02/06/2026;21:31;Centro;Brasileira;131,39;46;4;Entregue
+PED-1282;22/06/2026;22:59;Centro;Sobremesas;108,24;26;;Entregue
+PED-1193;24/06/2026;13:37;Bela Vista;Brasileira;67,89;72;2;Entregue
+PED-1083;13/06/2026;21:13;Jardim América;Lanches;92,99;69;;Cancelado
+PED-1196;27/06/2026;20:57;Centro;Japonesa;127,62;23;3;Entregue
+PED-1082;07/06/2026;14:51;Santa Cruz;Lanches;67,75;35;2;Entregue
+PED-1081;15/06/2026;18:52;Centro;Lanches;85,68;54;2;Entregue
+PED-1244;24/06/2026;13:27;Bela Vista;Brasileira;29,66;17;3;Entregue
+PED-1273;17/06/2026;19:52;Santa Cruz;Brasileira;126,59;16;3;Entregue
